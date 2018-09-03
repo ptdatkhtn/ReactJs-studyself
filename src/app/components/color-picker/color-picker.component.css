@@ -1,0 +1,9 @@
+span {
+  padding: 10px 20px;
+  margin: 10px;
+  cursor: pointer;
+}
+
+.active{
+	border: solid 3px black;
+}
